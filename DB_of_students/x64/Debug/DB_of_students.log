@@ -1,0 +1,17 @@
+﻿  DB_of_students.cpp
+C:\Users\user\source\repos\DB_of_students\StringBuilderClass.h(10,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\StringBuilderClass.h(37,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\ClassMenu.h(83,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\ClassMenu.h(86,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\ClassEdit.h(24,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\StudentClass.h(162,19): warning C4101: year: неиспользованная локальная переменная
+C:\Users\user\source\repos\DB_of_students\StudentClass.h(337,15): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\user\source\repos\DB_of_students\StudentClass.h(413,13): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+C:\Users\user\source\repos\DB_of_students\StudentClass.h(455,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\StudentClass.h(470,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\StudentDBClass.h(198,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\DB_of_students\DB_of_students.cpp(74,33): warning C4930: List<StudentNode>::iterator pos(void): функция с прототипом не вызвана (предполагалось определение переменной?)
+C:\Users\user\source\repos\DB_of_students\DB_of_students.cpp(68,9): warning C4101: curCount: неиспользованная локальная переменная
+C:\Users\user\source\repos\DB_of_students\DB_of_students.cpp(172,37): warning C4101: year1: неиспользованная локальная переменная
+C:\Users\user\source\repos\DB_of_students\StudentClass.h(143): warning C4715: StudentClass::editSex: значение возвращается не при всех путях выполнения
+  DB_of_students.vcxproj -> C:\Users\user\source\repos\DB_of_students\x64\Debug\DB_of_students.exe
